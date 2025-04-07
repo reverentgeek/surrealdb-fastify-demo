@@ -1,0 +1,27 @@
+{
+	"name": "surrealdb-test",
+	"version": "0.1.0",
+	"main": "src/index.js",
+	"type": "module",
+	"engines": {
+		"node": ">=22.0.0"
+	},
+	"scripts": {
+		"dev": "node --watch-path=./src ./src/index.js"
+	},
+	"keywords": [],
+	"author": "David Neal <david@reverentgeek.com> (https://reverentgeek.com/)",
+	"license": "MIT",
+	"description": "",
+	"devDependencies": {
+		"eslint": "^9.15.0",
+		"eslint-config-reverentgeek": "^5.2.0"
+	},
+	"dependencies": {
+		"@surrealdb/node": "^1.0.0-beta.2",
+		"dotenv": "^16.4.5",
+		"fastify": "^5.1.0",
+		"fastify-plugin": "^5.0.1",
+		"surrealdb": "^1.2.1"
+	}
+}
