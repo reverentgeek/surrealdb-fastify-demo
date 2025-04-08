@@ -1,6 +1,6 @@
 # SurrealDB Fastify Demo
 
-Demo project for SurrealDB + Node.js + Fastify API.
+Demo project for SurrealDB + Node.js + Fastify API. The associate blog post can be found at [https://reverentgeek.com/meet-surrealdb-nodejs/](https://reverentgeek.com/meet-surrealdb-nodejs/).
 
 ## Setup
 
